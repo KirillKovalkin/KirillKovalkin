@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### 👨‍🎓 I'm currently learning Python and Testing Theory
 
-### ✉️ How to reach me - [![image](https://github.com/KirillKovalkin/KirillKovalkin/assets/108697657/6870704c-284f-4f00-b5c8-684bdeff9941)](https://t.me/alohaguys) [![image](https://github.com/KirillKovalkin/KirillKovalkin/assets/108697657/53ba3dc0-d7fe-41a0-b30c-2aa1dad2dc90)](https://www.linkedin.com/in/kirill-kovalkin-07329982/) [![image](https://github.com/KirillKovalkin/KirillKovalkin/assets/108697657/d024144d-f956-4cb7-98d8-bc5a37f88eed)](mailto:kiryll.kovalkin@gmail.com)
+### ✉️ How to reach me: [![image](https://github.com/KirillKovalkin/KirillKovalkin/assets/108697657/6870704c-284f-4f00-b5c8-684bdeff9941)](https://t.me/alohaguys) [![image](https://github.com/KirillKovalkin/KirillKovalkin/assets/108697657/53ba3dc0-d7fe-41a0-b30c-2aa1dad2dc90)](https://www.linkedin.com/in/kirill-kovalkin-07329982/) [![image](https://github.com/KirillKovalkin/KirillKovalkin/assets/108697657/d024144d-f956-4cb7-98d8-bc5a37f88eed)](mailto:kiryll.kovalkin@gmail.com)
 
 
