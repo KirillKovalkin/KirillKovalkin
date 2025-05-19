@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=800&lines=Hello%2C+my+name+is+Kirill+and+welcome+to+my+Github)](https://git.io/typing-svg)
 
-### 💻 I'm currently working as a QA Automation Engineer (Python) at <a title="A1 Group, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" <img width="24" alt="Logo of A1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_of_A1.svg/32px-Logo_of_A1.svg.png"></a> Belarus
+### 💻 I'm currently working as a QA Automation Engineer (Python) at <img width="24" alt="Logo of A1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_of_A1.svg/32px-Logo_of_A1.svg.png"> Belarus
 
 ### 👨‍🎓 I'm currently learning Python and Testing Theory
 
