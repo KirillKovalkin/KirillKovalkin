@@ -16,10 +16,30 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=800&lines=Hello%2C+my+name+is+Kirill+and+welcome+to+my+Github)](https://git.io/typing-svg)
+## Hello, I'm Kirill 👋
 
-### 💻 I'm currently working as a QA Automation Engineer (Python) at [![Logo of A1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_of_A1.svg/32px-Logo_of_A1.svg.png)](https://a1.by/en/) Belarus
+### 💻 QA Automation Engineer (Python) at [![A1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_of_A1.svg/20px-Logo_of_A1.svg.png)](https://a1.by/en/) Belarus
 
-### 👨‍🎓 I'm currently learning Python and Testing Theory
+---
 
-### ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=15)](https://www.linkedin.com/in/kirill-kovalkin-07329982/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&logoWidth=15)](mailto:kiryll.kovalkin@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=FFFFFF&logoWidth=15)](https://t.me/alohaguys)
+### 🚀 About Me
+
+- Currently learning **Python** and **Testing Theory**  
+- Passionate about automation, quality assurance, and clean code  
+- Open to collaboration and new challenges
+
+---
+
+### 🛠️ Tech Stack
+
+Python · Pytest · Selenium · Git · Docker
+
+---
+
+### ✉️ How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kirill-kovalkin-07329982/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiryll.kovalkin@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alohaguys)
+
+---
+
+### 📊 GitHub Stats
+
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillKovalkin&show_icons=true&theme=radical)
