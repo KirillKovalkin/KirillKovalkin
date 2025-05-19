@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=800&lines=Hello%2C+my+name+is+Kirill+and+welcome+to+my+Github)](https://git.io/typing-svg)
 
-### 💻 I'm currently working as a QA Automation Engineer (Python) at <a title="A1 Group, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://a1.by/"><img width="24" alt="Logo of A1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_of_A1.svg/32px-Logo_of_A1.svg.png"> Belarus
+### 💻 I'm currently working as a QA Automation Engineer (Python) at [![Logo of A1](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_of_A1.svg/32px-Logo_of_A1.svg.png)](https://a1.by/en/) Belarus
 
 ### 👨‍🎓 I'm currently learning Python and Testing Theory
 
-### ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=15&link=https://www.linkedin.com/in/kirill-kovalkin-07329982/)](https://www.linkedin.com/in/kirill-kovalkin-07329982/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&logoWidth=15&link=mailto:kiryll.kovalkin@gmail.com)](mailto:kiryll.kovalkin@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=FFFFFF&logoWidth=15&link=https://t.me/alohaguys)](https://t.me/alohaguys)
+### ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&logoWidth=15)](https://www.linkedin.com/in/kirill-kovalkin-07329982/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&logoWidth=15)](mailto:kiryll.kovalkin@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=FFFFFF&logoWidth=15)](https://t.me/alohaguys)
