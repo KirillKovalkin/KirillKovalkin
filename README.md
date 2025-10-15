@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillKovalkin&show_icons=true&theme=radical)
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillKovalkin&show_icons=true&theme=dracula)
