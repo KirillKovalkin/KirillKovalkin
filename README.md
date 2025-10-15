@@ -57,3 +57,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillKovalkin&show_icons=true&theme=dracula)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KirillKovalkin&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKovalkin&layout=compact&theme=dracula)
