@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Kirill 👋
 
-### 💻 QA Automation Engineer (Python) at <a href="https://a1.by/en/"><img src="https://github.com/user-attachments/assets/cd48e8fd-20a5-4f64-b052-5a2ee8924771" alt="A1" height="20" valign="middle" /></a> Belarus
+### 💻 QA Automation Engineer (Python) at <a href="https://a1.by/en/"><img src="https://github.com/user-attachments/assets/cd48e8fd-20a5-4f64-b052-5a2ee8924771" alt="A1" height="20" valign="top" /></a> Belarus
 
 ---
 
